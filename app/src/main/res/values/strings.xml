@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DicodingSubmission</string>
+    <string name="nama">Mohammad Azri Khairuddin</string>
+    <string name="email">azrimuhammad5@gmail.com</string>
+    <string name="legend_name">Legends Name</string>
+    <string name="title">Legends Title</string>
+    <string name="real_name">Real Name</string>
+    <string name="real_name_value">Renee Hope Blasey</string>
+    <string name="gender">Gender</string>
+    <string name="gender_value">Female</string>
+    <string name="age">Age</string>
+    <string name="age_value">32</string>
+    <string name="height">Height</string>
+    <string name="height_value">5"4 (163 cm)</string>
+    <string name="home">Home World</string>
+    <string name="home_value">Typhon</string>
+    <string name="biography_description">Biography Description</string>
+    <string name="biography">Biography</string>
+    <string name="skills">Skills</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="passive">Passive</string>
+    <string name="tactical">Tactical</string>
+</resources>
